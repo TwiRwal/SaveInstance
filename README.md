@@ -1,6 +1,5 @@
 # SaveInstance
-SaveInstance is a function in Roblox that saves an instance that can be loaded later using Player:LoadInstance()
-SaveInstance can steal any games (just not make it more obvious you get ban if your using public)
+SaveInstance is a function in Roblox that saves an instance that can be loaded later using **Player:LoadInstance() Or saveinstance()** can steal any games (just not make it more obvious you get ban if your using public)
 
 #### Solara Official (You can Use other Executors Pc)
 
